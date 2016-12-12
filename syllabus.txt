@@ -7,10 +7,11 @@ Class Hours - 7:00 pm to 8:30 pm Mondays (some days will be shorter/longer, but 
 Dates - Jan 16th to Mar 27th
 
 
-Textbook - We will be following the book Algorithms by Sanjoy Dasgupta, Christos Papadimitriou and Umesh Vazirani.
-           The textbook is not required to participate in the class, but contains additional problems and lots of
-           quality pictures, so I recommend it!
-           Google and wikipedia are definitely sufficient though (as I'm sure you already know).
+Textbook -     We will be following the book Algorithms by Sanjoy Dasgupta, Christos Papadimitriou and Umesh Vazirani.
+               The textbook is not required to participate in the class, but contains additional problems and lots of
+               quality pictures, so I recommend it!
+
+               Google and wikipedia are definitely sufficient though (as I'm sure you already know).
 
 Organization - This "class" will be pretty relaxed. I hope to be talking < 50% of the time, with the first few
                classes probably requiring more as we get into the swing of things.
@@ -28,15 +29,15 @@ Organization - This "class" will be pretty relaxed. I hope to be talking < 50% o
                you in the fastest direction to getting back on track.
 
 
-Assignments - There will be no required assignments. I will post interesting problems both from our textbook and
-              elsewhere for you to work on should you want the additional practice. Some will be coding projects
-              and others will be more math-related.
+Assignments -  There will be no required assignments. I will post interesting problems both from our textbook and
+               elsewhere for you to work on should you want the additional practice. Some will be coding projects
+               and others will be more math-related.
 
-              Assignments will not be graded (I still have to find some time for 42 work...) but I'd be happy to
-              chat with you about them!
+               Assignments will not be graded (I still have to find some time for 42 work...) but I'd be happy to
+               chat with you about them!
 
-              If you have any ideas for cool projects, feel free to share them in our slack channel or (even better)
-              add them to this repo via a pull request!
+               If you have any ideas for cool projects, feel free to share them in our slack channel or (even better)
+               add them to this repo via a pull request!
 
 
 Expectations - So there are no assignments, does that mean that you don't have to do anything? Of course not!
