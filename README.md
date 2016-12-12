@@ -13,7 +13,7 @@ I will be posting lecture notes and video links to all classes here.
 
 You can also ask questions (or, more likely, correct me) using pull requests.
 
-Or you can slack me at csummers if you'd rather!
+Or you can slack me at csummers if you'd rather.
 
 
 
@@ -22,5 +22,4 @@ Or you can slack me at csummers if you'd rather!
 
 
 Best,
-
 Charlie Summers
