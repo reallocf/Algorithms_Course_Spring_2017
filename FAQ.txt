@@ -3,12 +3,12 @@ A short FAQ that will be extended as questions crop up
 
 Q. When will classes start?
 
-A. man syllabus.txt
+A. cat syllabus.txt
 
 
 Q. What time are classes?
 
-A. man syllabus.txt
+A. cat syllabus.txt
 
 
 Q. Where are lecture notes posted?
