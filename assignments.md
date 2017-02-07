@@ -206,7 +206,7 @@ Day 03
   
 * Implement heapify
 
- * Given an array of nodes (with values and keys), heapiy takes that nodes and organizes them into a heap!
+ * Given an array of nodes (with values and keys), heapify takes that nodes and organizes them into a heap!
  
 * Implement Dijkstra's algorithm
 
