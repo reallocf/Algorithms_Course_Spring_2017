@@ -17,7 +17,7 @@ Day 00
 
 * mini-calc: write a function that takes two numbers of ANY SIZE with an operator in between them and outputs the result of the operation.
 
-..* only need to handle +, -, *, and /
+  * only need to handle +, -, *, and /
 
 ⋅⋅* examples: ./mini-calc 123456789000 + 987654321000
 
