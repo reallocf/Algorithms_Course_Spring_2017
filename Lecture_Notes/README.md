@@ -14,11 +14,11 @@ Day 04 - [Greedy algorithms](https://docs.google.com/presentation/d/12N8leHLGuWS
 
 Day 05 - [Dynamic programming](https://docs.google.com/presentation/d/13Y4Z5RVfHEE7rh1cOF14EYILA1TKN00YIkZYdgaYyh0/edit?usp=sharing)
 
-Day 06 - Linear programming and reductions
+Day 06 - [Linear programming and reductions](https://docs.google.com/presentation/d/1PU8MvbIcxyZfx6hrnbP1nbEod88TLWEgnxh31hjWXiw/edit?usp=sharing)
 
-Day 07 - NP-complete problems
+Day 07 - [NP-complete problems](https://docs.google.com/presentation/d/1ny3cthh5hMseJhcyi3EpvEGgqhj7S0LHpfhnaT5j3UE/edit?usp=sharing)
 
-Day 08 - Coping with NP-completeness
+Day 08 - [Coping with NP-completeness](https://docs.google.com/presentation/d/15zxiRq4Bl-072f1CSQGD7TREF_FtmTmvyhH8vwv9nVw/edit?usp=sharing)
 
-Day 09 - Quantum algorithms
+Day 09 - [Quantum algorithms](https://docs.google.com/presentation/d/16LT8dKNw9fXhIEJkzDdTPTn0nlMHneQISn-ubFKkAsY/edit?usp=sharing)
 
