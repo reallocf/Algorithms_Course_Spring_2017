@@ -1,3 +1,8 @@
+EDIT: 
+----
+----
+I have placed the assignments at the end of each lecture notes so you'll only see the first few days here. Look under lecture slides for all assignments for other days.
+
 Assignments
 -----------
 -----------
